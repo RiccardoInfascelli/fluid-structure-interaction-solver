@@ -103,6 +103,11 @@ $$
   - Separate contributions for Stokes and elasticity.
   - Special assembly along the fluid-solid interface.
   - Interface terms ensure correct stress transfer between fluid and solid.
+ 
+## Report and Presentation
+
+- [Project report](report/fsi_report.pdf)
+- [Project presentation](report/fsi_presentation.pdf)
 
 
 ## References
